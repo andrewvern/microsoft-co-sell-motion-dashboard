@@ -1,7 +1,7 @@
 Microsoft Co-Sell Motion Dashboard
 This project delivers an interactive Power BI dashboard designed to visualize and track the performance of Microsoft Co-Sell motions, enabling sales and partnership teams to identify top-performing partner solutions, optimize engagement strategies, and drive revenue growth.
 
-##**🚀 Project Overview**
+##🚀 Project Overview  
 The Microsoft Co-Sell Motion Dashboard provides stakeholders with actionable insights by combining data from multiple partner, product, and regional dimensions. It surfaces performance trends, highlights key growth opportunities, and enables filtering across various business attributes.
 
 ##**🎯 Features**
