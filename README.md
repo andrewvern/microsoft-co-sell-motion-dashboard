@@ -15,6 +15,10 @@ Built-in data modeling to support drill-down analysis
 
 Export-ready Power BI visuals for executive presentations
 
+## Data Model
+![image](https://github.com/user-attachments/assets/b25da565-aff8-434b-9c43-a4173da9b3e5)
+
+
 ## Tech Stack
 Power BI – for dashboard design and data visualization
 
