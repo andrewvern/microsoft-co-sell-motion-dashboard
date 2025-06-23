@@ -5,7 +5,7 @@ The Microsoft Co-Sell Motion Dashboard provides stakeholders with actionable ins
 
 ## Data Model
 
-This Power BI project uses a star schema with 3 fact tables and several dimensions to support workload and partner-level analysis.
+This Power BI project uses a snowflake schema with 3 fact tables and several dimensions to support workload and partner-level analysis.
 
 ### Fact Tables
 - `fact_CustomerWins`
