@@ -16,7 +16,24 @@ Built-in data modeling to support drill-down analysis
 Export-ready Power BI visuals for executive presentations
 
 ## Data Model
-![image](https://github.com/user-attachments/assets/0d2437c6-8982-4ca4-b83f-29512f43ef1c)
+
+This Power BI project uses a star schema with 3 fact tables and several dimensions to support workload and partner-level analysis.
+
+### Fact Tables
+- `fact_CustomerWins`
+- `fact_Workloads`
+- `fact_PartnerScores`
+
+### Dimension Tables
+- `dim_partner2`
+- `dim_customer2`
+- `dim_activity2`
+- `dim_solutionAreaMap2`
+- `dim_partnerSolution2`
+- `dim_partnerSolutionArea2`
+
+![Data Model Diagram]
+![ERD Data Model](https://github.com/user-attachments/assets/bea278f4-6737-4763-9b5c-89f029763d3e)
 
 
 ## Tech Stack
