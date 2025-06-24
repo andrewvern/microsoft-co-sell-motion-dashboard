@@ -1,4 +1,5 @@
 ### Microsoft Co-Sell Motion Dashboard
+This dashboard was built as part of a senior capstone project using dummy/masked data. All values are simulated and do not represent real business information.
 
 ## Project Overview  
 The Microsoft Co-Sell Motion Dashboard provides stakeholders with actionable insights by combining data from multiple partner, product, and regional dimensions. It surfaces performance trends, highlights key growth opportunities, and enables filtering across various business attributes. Originally developed as part of a group project, this version reflects my individual contribution—specifically, I was solely responsible for designing the data model, cleaning and preparing the dataset, and conducting all exploratory data analysis.
